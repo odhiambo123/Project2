@@ -28,7 +28,7 @@ Alternatively you can open from VCS in android studion and add the link `https:/
 
 ## Contributers
 
-- [Julie](https://github.com/jshev)
+- [Juliana Chevshenko](https://github.com/jshev)
 - [Donhem Brown](https://github.com/DonhemABrown)
 - [John Haberkorn](https://github.com/SourDoe)
 - [David Odhiambo](https://github.com/odhiambo123)
