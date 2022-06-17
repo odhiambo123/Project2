@@ -20,11 +20,11 @@
 
 ## Build and Run / Usage
 
-  `git clone https://github.com/odhiambo123/RevProject2.git`
+  `git clone https://github.com/odhiambo123/Project2.git`
   
   - Open open and run the project from android studio.
 
-Alternatively you can open from VCS in android studion and add the link `https://github.com/odhiambo123/RevProject2.git`
+Alternatively you can open from VCS in android studion and add the link `https://github.com/odhiambo123/Project2.git`
 
 ## Contributers
 
