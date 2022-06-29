@@ -37,5 +37,5 @@ Alternatively you can open from VCS in android studion and add the link `https:/
 ![image](https://user-images.githubusercontent.com/8829018/171968606-d0837808-468d-4f85-a218-181b1c064abc.png)
 
 
-[project slides](https://docs.google.com/presentation/d/16_qSNLxi-03I08IG3h7qrYs9qL6HHBaQ200-4hjLlto/edit#slide=id.g13454d82cb8_3_0)
+[project slides](https://docs.google.com/presentation/d/1aw-uzSk2tRlgUUVACp8GVOEKGKIvytI5KLQdkyvKblg/edit?usp=sharing)
 
