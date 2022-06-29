@@ -2,7 +2,6 @@
 
 ## Technologies Used
 
-- RxKotlin
 - Clean Architecture
 - XML
 - Mockito
